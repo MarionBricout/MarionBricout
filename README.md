@@ -16,11 +16,9 @@ Je suis Marion Bricout, étudiante chez O'clock 🚀.
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="230" />
-
 ### 📈 Mes statistiques GitHub
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MarionBricout&show_icons=true&theme=vision-friendly-dark" alt="MarionBricout" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MarionBricout&show_icons=true&theme=vision-friendly-dark" alt="MarionBricout" />
   
 <br />
 <br />
