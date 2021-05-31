@@ -1,0 +1,42 @@
+Hello 👋
+Je suis Marion Bricout et je suis étudiante chez o'clock.
+Je suis intéressée par toutes les nouvelles technologies
+
+## Hello 👋
+
+<a href="https://twitter.com/Drc_Axu">
+  <img align="left" alt="Baptiste Parville | Twitter" width="22px" fill='blue' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/marion-bricout/">
+  <img align="left" alt="Baptiste Parville | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=baptajck.baptajck)
+
+<br />
+
+
+Je suis Marion Bricout, étudiante chez O'clock 🚀. 
+<br />
+<br />
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="230" />
+
+### 📈 Mes statistiques GitHub
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MarionBricout&show_icons=true&theme=vision-friendly-dark" alt="MarionBricout" />
+  
+<br />
+<br />
+
+<!---
+- 👋 Hi, I’m @MarionBricout
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
+MarionBricout/MarionBricout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
