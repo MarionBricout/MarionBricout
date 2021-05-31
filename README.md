@@ -1,17 +1,13 @@
-Hello 👋
-Je suis Marion Bricout et je suis étudiante chez o'clock.
-Je suis intéressée par toutes les nouvelles technologies
-
 ## Hello 👋
 
 <a href="https://twitter.com/Drc_Axu">
-  <img align="left" alt="Baptiste Parville | Twitter" width="22px" fill='blue' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Marion Bricout | Twitter" width="22px" fill='blue' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/marion-bricout/">
-  <img align="left" alt="Baptiste Parville | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Marion Bricout | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=baptajck.baptajck)
+![](https://visitor-badge.glitch.me/badge?page_id=MarionBricout.MarionBricout)
 
 <br />
 
