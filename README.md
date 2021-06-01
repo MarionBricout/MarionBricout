@@ -12,7 +12,7 @@
 <br />
 
 
-Je suis Marion Bricout, étudiante chez O'clock 🚀. 
+Je suis Marion Bricout, étudiante fullstack JS chez O'clock 🚀. 
 <br />
 <br />
 
